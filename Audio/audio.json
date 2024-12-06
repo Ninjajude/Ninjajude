@@ -1,12 +1,12 @@
 [ 
-  { "url":"Audio/audio 1.wav","type":"audio","bank":"songg","n":1},
-   { "url":"Audio/audio 2.wav","type":"audio","bank":"songg","n":2},
-   { "url":"Audio/audio 3.wav","type":"audio","bank":"songg","n":3},
-   { "url":"Audio/audio 4.wav","type":"audio","bank":"songg","n":4},
-   { "url":"Audio/audio 5.wav","type":"audio","bank":"songg","n":5},
-   { "url":"Audio/audio 6.wav","type":"audio","bank":"songg","n":6},
-   { "url":"Audio/audio 7.wav","type":"audio","bank":"songg","n":7},
-   { "url":"Audio/audio 8.wav","type":"audio","bank":"songg","n":8},
-   { "url":"Audio/audio 9.wav","type":"audio","bank":"songg","n":9},
-   { "url":"Audio/audio 10.wav","type":"audio","bank":"songg","n":10}
+  { "url":"Audio/audio 1.wav","type":"audio","bank":"song","n":1},
+   { "url":"Audio/audio 2.wav","type":"audio","bank":"part1","n":2},
+   { "url":"Audio/audio 3.wav","type":"audio","bank":"stock","n":3},
+   { "url":"Audio/audio 4.wav","type":"audio","bank":"bangy","n":4},
+   { "url":"Audio/audio 5.wav","type":"audio","bank":"pain","n":5},
+   { "url":"Audio/audio 6.wav","type":"audio","bank":"g3","n":6},
+   { "url":"Audio/audio 7.wav","type":"audio","bank":"letter","n":7},
+   { "url":"Audio/audio 8.wav","type":"audio","bank":"chip","n":8},
+   { "url":"Audio/audio 9.wav","type":"audio","bank":"lucky","n":9},
+   { "url":"Audio/audio 10.wav","type":"audio","bank":"XD2","n":10}
 ]
